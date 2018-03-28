@@ -1,0 +1,18 @@
+K:\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.exe.config
+K:\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.exe
+K:\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.pdb
+K:\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.csprojResolveAssemblyReference.cache
+K:\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.exe
+K:\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.pdb
+K:\Traveling Salesman - Copy (2)\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.exe.config
+K:\Traveling Salesman - Copy (2)\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.exe
+K:\Traveling Salesman - Copy (2)\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.pdb
+K:\Traveling Salesman - Copy (2)\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.exe
+K:\Traveling Salesman - Copy (2)\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.pdb
+K:\Traveling Salesman - Copy (2)\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.csprojResolveAssemblyReference.cache
+C:\Users\Verfaieli\Desktop\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.exe.config
+C:\Users\Verfaieli\Desktop\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.exe
+C:\Users\Verfaieli\Desktop\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.pdb
+C:\Users\Verfaieli\Desktop\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.exe
+C:\Users\Verfaieli\Desktop\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.pdb
+C:\Users\Verfaieli\Desktop\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.csprojResolveAssemblyReference.cache

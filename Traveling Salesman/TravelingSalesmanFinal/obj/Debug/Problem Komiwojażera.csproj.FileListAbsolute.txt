@@ -1,0 +1,12 @@
+C:\Users\Verfaieli\Desktop\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.exe.config
+C:\Users\Verfaieli\Desktop\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.exe
+C:\Users\Verfaieli\Desktop\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.pdb
+C:\Users\Verfaieli\Desktop\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.exe
+C:\Users\Verfaieli\Desktop\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.pdb
+C:\Users\Verfaieli\Desktop\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\Problem Komiwojażera.csprojResolveAssemblyReference.cache
+D:\Pliki\Google Drive\Studia\Semestr 4\Grafy i Sieci\Projekt\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.exe.config
+D:\Pliki\Google Drive\Studia\Semestr 4\Grafy i Sieci\Projekt\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.exe
+D:\Pliki\Google Drive\Studia\Semestr 4\Grafy i Sieci\Projekt\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\TravelingSalesmanFinal.pdb
+D:\Pliki\Google Drive\Studia\Semestr 4\Grafy i Sieci\Projekt\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.exe
+D:\Pliki\Google Drive\Studia\Semestr 4\Grafy i Sieci\Projekt\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\bin\Debug\TravelingSalesmanFinal.pdb
+D:\Pliki\Google Drive\Studia\Semestr 4\Grafy i Sieci\Projekt\Problem Komiwojażera\Traveling Salesman\TravelingSalesmanFinal\obj\Debug\Problem Komiwojażera.csprojResolveAssemblyReference.cache
